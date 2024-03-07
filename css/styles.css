@@ -6,6 +6,10 @@ body {
     sans-serif;
 }
 
+img {
+  max-width: 100%;
+}
+
 /* 共通設定 */
 .heading {
   text-align: center;
